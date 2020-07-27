@@ -1,0 +1,2 @@
+rootProject.name='ParsingJsonGson2'
+include ':app'
